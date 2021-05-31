@@ -1,7 +1,7 @@
 {
   "posts": [
-     {"id": 0, "title": "First Post", "content": "Hello!"},
-     {"id": 1, "title": "Second Post", "content": "Hello Second Post!"},
-     {"id": 2, "title": "Post 3", "content": "Third Post" }
+     {"id": "0", "title": "First Post", "content": "Hello!"},
+     {"id": "1", "title": "Second Post", "content": "Hello Second Post!"},
+     {"id": "2", "title": "Post 3", "content": "Third Post" }
   ]
 }
