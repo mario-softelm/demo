@@ -1,9 +1,9 @@
 {
   "posts": [
-     {"id": "0", "title": "First Post", "content": "Hello!", "user_id": "1"},
-     {"id": "1", "title": "Second Post", "content": "Hello Second Post!", "user_id": "2"},
-     {"id": "2", "title": "Post 3", "content": "Third Post", "user_id":"2"},
-     {"id": "3", "title": "Post 4", "content": "Fourth Post Post", "user_id":"1"},
-     {"id": "4", "title": "Post 5", "content": "Fifth Post", "user_id":"3"}
+     {"id": "0", "title": "First Post", "content": "Hello!", "user_id": "1", user_name="John Doe"},
+     {"id": "1", "title": "Second Post", "content": "Hello Second Post!", "user_id": "2", user_name="Petar Petrovic"},
+     {"id": "2", "title": "Post 3", "content": "Third Post", "user_id":"2", user_name="Petar Petrovic"},
+     {"id": "3", "title": "Post 4", "content": "Fourth Post Post", "user_id":"1", user_name="John Doe"},
+     {"id": "4", "title": "Post 5", "content": "Fifth Post", "user_id":"3", user_name="Milos Milosevic"}
   ]
 }
